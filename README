@@ -1,0 +1,6 @@
+My attempt to build https://go.googlesource.com/gollvm/ , on 20-09-2020
+
+Branch versioning corresponds to:
+https://go.googlesource.com/gollvm/+/2be4b2f856f80b0f2360cd26d4ab1f34a41df5b2
+https://go.googlesource.com/gofrontend/+/6fd6418efb983827717f648a11bb5ca6fe93af30
+
